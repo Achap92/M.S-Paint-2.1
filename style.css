@@ -1,0 +1,27 @@
+#myCanvas {
+ border: solid 2px black; 
+}
+
+body {
+  background-color: #373737;
+  font-family: sans-serif;
+  color: white;
+}
+
+.colorOption {
+  width: 20px;
+  height: 20px;
+  float: left;
+}
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
